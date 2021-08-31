@@ -5,6 +5,7 @@
 - 📫 Nunca dejes que nada te detenga..
 
 
-Aqui podras aprender sobre distintas cosas, tanto para fines beneficos, como perjud1ciales, **SOLO CON FINES EDUCATIVOS** y algunos trucos/codes para facilitar tu desarrollo en ciertas cosas
+Aqui podras aprender sobre distintas cosas **SOLO CON FINES EDUCATIVOS** y algunos trucos/codes para facilitar tu desarrollo en ciertas cosas
 
+- Claro, tampoco soy un experto programando pero estoy mejorando
 
